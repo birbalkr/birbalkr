@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Starting My Developer Journey Currently learning Java, Spring Boot, React, and how to build full stack web apps.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://birbalkr.netlify.app/](https://birbalkr.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://birbalkr.netlify.app/](https://portfolio-lemon-alpha-46.vercel.app//)
 
 - 📫 How to reach me **birbalkr1435@gmail.com**
 
